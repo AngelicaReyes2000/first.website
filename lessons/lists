@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <!-- ol list -->
+    <ol>
+        <li>Angelica</li>
+        <li>Eythan</li>
+        <li>Joseth</li>
+        
+    </ol>
+ 
+    </ul>
+
+    <!-- order list, para crear lista sobre lista por ejemplo.. 1 y 1.1 -->
+       <!-- nested list -->
+       <ul>
+        <li>Joseth</li>
+        <li>Angelica
+            <ol>
+                <li>html</li>
+                <li>css</li>
+            </ol>
+        </li>
+        <li>Eythan</li>
+            </ul>
+
+<!-- table tr(row) td(colums) th(heading) -->
+<table>
+ <tr>
+     <th>number</th>
+     <th>name</th>
+ </tr>
+ <tr>
+     <td>1</td>
+     <td>Joseth</td>
+ </tr>
+ <tr>
+     <td>3</td>
+     <td>Eythan</td>
+ </tr>
+     </table>
+     
+ <h1></h1>
+</body>
+</html>

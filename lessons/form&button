@@ -1,0 +1,81 @@
+ <form action="" method="">
+    <!-- text input -->
+    <label for="first name">First Name</label>
+    <input type="text" name="FirstName" id="FirstName" value="Angelica" >
+    <br>
+    <!-- password input -->
+    <input type="password" name="password" placeholder="please type your password">
+    <br>
+    <!-- email input -->
+    <input type="email" name="email" value="email@email">
+    <!-- input submit -->
+    <!-- <input type="submit" value="submit here"> -->
+   <button type="submit">submit here</button>
+ </form>
+
+ <!-- different kinds of buttonto select  -->
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+ <form action="" method="">
+    <!-- text input -->
+    <label for="first name">First Name</label>
+    <input type="text" name="FirstName" id="FirstName" value="Angelica" >
+    <br>
+    <br>
+    <!-- password input -->
+    <input type="password" name="password" placeholder="please type your password">
+    <br>
+    <br>
+    <!-- email input -->
+    <input type="email" name="email" value="email@email">
+    <br>
+    <br>
+<!-- textarea -->
+<p>Description</p>
+<textarea name="" id="" cols="10" rows="2"></textarea>
+<br>
+<br>
+<!-- radio buttons -->
+<p>Please select your favorite coding language?</p>
+<input type="radio" name="coding" id="" value="Javascript" checked>Javascript
+<input type="radio" name="coding" id="" value="Java">Java
+<input type="radio" name="coding" id="" value="Python">Python
+<br>
+<br>
+<!-- checkboxes -->
+<p>Please select your favorite coding language?</p>
+<input type="checkbox" name="programming" value="Javascript" id="">Javascript
+<input type="checkbox" name="programming" value="Java" id="">Java
+<input type="checkbox" name="programming" checked value="Python" id="">Python
+<br>
+<br>
+<!-- radio buttons -->
+<p>Please select your favorite coding language?</p>
+<input type="radio" name="coding" id="" value="Javascript" checked>Javascript
+<input type="radio" name="coding" id="" value="Java">Java
+<input type="radio" name="coding" id="" value="Python">Python
+<br>
+<br>
+<!-- select inputs -->
+<p>Please select your favorite coding language?</p>
+<select name="languages" id="">
+    <option value="Javascript">Javascript</option>
+    <option value="Java">Java</option>
+    <option value="Python">Python</option>
+</select>
+<br>
+<br>
+<!-- input submit -->
+    <!-- <input type="submit" value="submit here"> -->
+   <button type="submit">submit here</button>
+ </form>
+
+</body>
+</html>
